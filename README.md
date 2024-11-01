@@ -30,4 +30,4 @@ https://github.com/Ezequiel-Bomfim/Exercicio-gerador-de-conselhoss.git
 
 ## Desenvolvimento contínuo
 
-Quero me desenvolver muito mais em flexbox e suas propriedades para assim me tornar um programador execelente num breve futuro.  
+Quero me desenvolver muito mais em flexbox e suas propriedades para assim me tornar um programador excelente num breve futuro.  
