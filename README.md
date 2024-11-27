@@ -9,7 +9,7 @@ Criação de um app gerador de conselhos responsivo
 
 ## Clone o projeto
 ```
-https://github.com/Ezequiel-Bomfim/Exercicio-gerador-de-conselhoss.git
+https://github.com/Ezequiel-Bomfim/Exercicio-gerador-de-conselhos.git
 ```
 
 ## Desafios
