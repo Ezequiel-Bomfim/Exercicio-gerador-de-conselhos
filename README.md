@@ -18,7 +18,7 @@ https://github.com/Ezequiel-Bomfim/Exercicio-gerador-de-conselhoss.git
 
 - Aplicar a largura certa para cada tipo de resolução.
 
-- A tag ````picture```` com duas imagens de tamanhos diferete para mobile e descktop, foi preciso mexer em suas larguras.
+- A tag ````picture```` com duas imagens de tamanhos diferete para mobile e desktop, foi preciso mexer em suas larguras.
 
 ## Coisas que aprendi
 
