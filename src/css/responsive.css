@@ -1,0 +1,15 @@
+@media (max-width: 425px) {
+    .btn-img button {
+        right: 175px;
+    }
+}
+
+@media (max-width: 390px) {
+    .btn-img button {
+        right: 165px;
+    }
+
+    .image img {
+        right: 40px;
+    }
+}

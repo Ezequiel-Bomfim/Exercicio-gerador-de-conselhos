@@ -5,8 +5,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" type="image/png" sizes="32x32" href="./src/images/favicon-32x32.png">
+  <link rel="stylesheet" href="./src/css/variables.css">
   <link rel="stylesheet" href="./src/css/reset.css">
   <link rel="stylesheet" href="./src/css/style.css">
+  <link rel="stylesheet" href="./src/css/responsive.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@800&family=Manrope:wght@200..800&display=swap"
@@ -17,9 +19,9 @@
 <body>
   <main class="card">
     <div class="title-text">
-      <h6>ADVICE #117</h6>
+      <h6 id="slipId">ADVICE #117</h6>
 
-      <p>"It is easy to sit up and take notice, what's difficult is getting up and taking action."</p>
+      <p class="advice">"It is easy to sit up and take notice, what's difficult is getting up and taking action."</p>
     </div>
 
 
@@ -31,12 +33,13 @@
       </picture>
     </div>
 
-    <div class="button-dice">
-      <button>
+    <div class="btn-img">
+      <button id="button" type="button">
         <img src="./src/images/icon-dice.svg" alt="imagem de dado">
       </button>
     </div>
   </main>
-</body>
 
+  <script src="./src/js/index.js"></script>
+</body>
 </html>
