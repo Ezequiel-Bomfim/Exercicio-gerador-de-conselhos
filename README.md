@@ -50,6 +50,3 @@ Quero me desenvolver muito mais em flexbox e suas propriedades e também no JS p
 ## 🙏 Agradecimentos
 
 Agradeço ao DevQuest por todo apoio e aprendizado, por me fazer acreditar que é sim possível aprender a programar.
-=======
-Quero me desenvolver muito mais em flexbox e suas propriedades para assim me tornar um programador excelente num breve futuro.  
->>>>>>> 6c0a9b4bf762386eaac6419e46a7bbc65b5d34ae
