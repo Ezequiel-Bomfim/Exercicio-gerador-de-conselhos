@@ -18,7 +18,7 @@ Criação de um app gerador de conselhos responsivo
 
 ## 🔗 Clone o projeto
 ```
-https://github.com/Ezequiel-Bomfim/Exercicio-gerador-de-conselhoss.git
+https://github.com/Ezequiel-Bomfim/Exercicio-gerador-de-conselhos.git
 ```
 ```
 git@github.com:Ezequiel-Bomfim/Exercicio-gerador-de-conselhos.git
@@ -30,7 +30,7 @@ git@github.com:Ezequiel-Bomfim/Exercicio-gerador-de-conselhos.git
 
 - Aplicar a largura certa para cada tipo de resolução.
 
-- A tag ````picture```` com duas imagens de tamanhos diferete para mobile e descktop, foi preciso mexer em suas larguras.
+- A tag ````picture```` com duas imagens de tamanhos diferete para mobile e desktop, foi preciso mexer em suas larguras.
 
 ## 🧑🏽‍💻 Coisas que aprendi
 
@@ -42,6 +42,7 @@ git@github.com:Ezequiel-Bomfim/Exercicio-gerador-de-conselhos.git
 
 - Consumir uma API pública.
 
+<<<<<<< HEAD
 ## 🎯 Desenvolvimento contínuo
 
 Quero me desenvolver muito mais em flexbox e suas propriedades e também no JS para assim me tornar um programador execelente num breve futuro.
@@ -49,3 +50,6 @@ Quero me desenvolver muito mais em flexbox e suas propriedades e também no JS p
 ## 🙏 Agradecimentos
 
 Agradeço ao DevQuest por todo apoio e aprendizado, por me fazer acreditar que é sim possível aprender a programar.
+=======
+Quero me desenvolver muito mais em flexbox e suas propriedades para assim me tornar um programador excelente num breve futuro.  
+>>>>>>> 6c0a9b4bf762386eaac6419e46a7bbc65b5d34ae
