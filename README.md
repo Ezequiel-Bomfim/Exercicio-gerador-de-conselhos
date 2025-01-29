@@ -42,7 +42,6 @@ git@github.com:Ezequiel-Bomfim/Exercicio-gerador-de-conselhos.git
 
 - Consumir uma API pública.
 
-<<<<<<< HEAD
 ## 🎯 Desenvolvimento contínuo
 
 Quero me desenvolver muito mais em flexbox e suas propriedades e também no JS para assim me tornar um programador execelente num breve futuro.
